@@ -2,7 +2,7 @@ import pandas as pd
 from pyfaidx import Fasta
 from pathlib import Path
 import glob
-from tqdm.notebook import tqdm
+from tqdm import tqdm
 import parasail
 import os
 import numpy as np
@@ -59,3 +59,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=desc, epilog='By Camilo Fuentes-Beals. @cakofuentes')
     # Base arguments
     parser.add_argument('--b', '--basedir', required=True, help='Input folder.')
+
+    args = parser.parse_args()
+
+    main(args)
