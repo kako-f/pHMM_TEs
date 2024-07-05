@@ -3,13 +3,12 @@ import sys
 import argparse
 import os
 import hvplot.pandas  # noqa
-from pyfaidx import Fasta
 from tqdm import tqdm
 import numpy as np
 import random
 from bokeh.models import HoverTool
 from bokeh.models import ColumnDataSource
-from bokeh.plotting import figure, show, save, reset_output, output_notebook, output_file
+from bokeh.plotting import figure, save, output_file
 import parasail
 import subprocess
 import pandas as pd

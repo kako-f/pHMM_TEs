@@ -1,5 +1,4 @@
 import mmap
-
 import pandas as pd
 from pyfaidx import Fasta
 from pathlib import Path
