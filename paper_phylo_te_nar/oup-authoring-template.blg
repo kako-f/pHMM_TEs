@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: oup-authoring-template.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: thesis.bib
+You've used 45 entries,
+            2118 wiz_defined-function locations,
+            761 strings with 15231 characters,
+and the built_in function-call counts, 19552 in all, are:
+= -- 1768
+> -- 1453
+< -- 3
++ -- 581
+- -- 528
+* -- 1829
+:= -- 3419
+add.period$ -- 135
+call.type$ -- 45
+change.case$ -- 397
+chr.to.int$ -- 0
+cite$ -- 45
+duplicate$ -- 494
+empty$ -- 1153
+format.name$ -- 528
+if$ -- 3756
+int.to.chr$ -- 0
+int.to.str$ -- 45
+missing$ -- 42
+newline$ -- 227
+num.names$ -- 94
+pop$ -- 343
+preamble$ -- 1
+purify$ -- 353
+quote$ -- 0
+skip$ -- 333
+stack$ -- 0
+substring$ -- 1052
+swap$ -- 52
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 174
+warning$ -- 0
+while$ -- 156
+width$ -- 47
+write$ -- 496

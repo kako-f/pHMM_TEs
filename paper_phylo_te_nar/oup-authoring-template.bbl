@@ -1,0 +1,301 @@
+\begin{thebibliography}{10}
+
+\bibitem{amselem_repetdb_2019}
+Joëlle Amselem, Guillaume Cornut, Nathalie Choisne, Michael Alaux, Françoise
+  Alfama-Depauw, Véronique Jamilloux, Florian Maumus, Thomas Letellier,
+  Isabelle Luyten, Cyril Pommier, Anne-Françoise Adam-Blondon, and Hadi
+  Quesneville.
+\newblock {RepetDB}: a unified resource for transposable element references.
+\newblock {\em Mobile DNA}, 10(1):6, December 2019.
+
+\bibitem{anisimova_evolutionary_2019}
+Maria Anisimova, editor.
+\newblock {\em Evolutionary {Genomics}: {Statistical} and {Computational}
+  {Methods}}, volume 1910 of {\em Methods in {Molecular} {Biology}}.
+\newblock Springer New York, New York, NY, 2019.
+
+\bibitem{arkhipova_giant_2019}
+Irina~R Arkhipova and Irina~A Yushenova.
+\newblock Giant {Transposons} in {Eukaryotes}: {Is} {Bigger} {Better}?
+\newblock {\em Genome Biology and Evolution}, 11(3):906--918, March 2019.
+
+\bibitem{armstrong_progressive_2020}
+Joel Armstrong, Glenn Hickey, Mark Diekhans, Ian~T. Fiddes, Adam~M. Novak,
+  Alden Deran, Qi~Fang, Duo Xie, Shaohong Feng, Josefin Stiller, Diane
+  Genereux, Jeremy Johnson, Voichita~Dana Marinescu, Jessica Alföldi,
+  Robert~S. Harris, Kerstin Lindblad-Toh, David Haussler, Elinor Karlsson,
+  Erich~D. Jarvis, Guojie Zhang, and Benedict Paten.
+\newblock Progressive {Cactus} is a multiple-genome aligner for the
+  thousand-genome era.
+\newblock {\em Nature}, 587(7833):246--251, November 2020.
+
+\bibitem{ayuso-fernandez_ancestral_2022}
+Iván Ayuso-Fernández, Gonzalo Molpeceres, Susana Camarero, Francisco~Javier
+  Ruiz-Dueñas, and Angel~T. Martínez.
+\newblock Ancestral sequence reconstruction as a tool to study the evolution of
+  wood decaying fungi.
+\newblock {\em Frontiers in Fungal Biology}, 3:1003489, October 2022.
+
+\bibitem{bao_repbase_2015}
+Weidong Bao, Kenji~K. Kojima, and Oleksiy Kohany.
+\newblock Repbase {Update}, a database of repetitive elements in eukaryotic
+  genomes.
+\newblock {\em Mobile DNA}, 6(1):11, December 2015.
+
+\bibitem{bourque_ten_2018}
+Guillaume Bourque, Kathleen~H. Burns, Mary Gehring, Vera Gorbunova, Andrei
+  Seluanov, Molly Hammell, Michaël Imbeault, Zsuzsanna Izsvák, Henry~L.
+  Levin, Todd~S. Macfarlan, Dixie~L. Mager, and Cédric Feschotte.
+\newblock Ten things you should know about transposable elements.
+\newblock {\em Genome Biology}, 19(1):199, December 2018.
+
+\bibitem{branco_transposable_2023}
+Miguel~R. Branco and Alexandre~de Mendoza~Soler, editors.
+\newblock {\em Transposable elements: methods and protocols}.
+\newblock Humana Press, New York, NY, 2023.
+\newblock OCLC: 1353595819.
+
+\bibitem{bui_quang_minh_iq-tree_2022}
+{Bui Quang Minh}, {Rob Lanfear}, {Nhan Ly-Trong}, {Jana Trifinopoulos}, and
+  {Dominik Schrempf}.
+\newblock {IQ}-{TREE} version 2.2.0: {Tutorials} and {Manual} {Phylogenomic}
+  software by maximum likelihood, March 2022.
+
+\bibitem{curcio_outs_2003}
+M.~Joan Curcio and Keith~M. Derbyshire.
+\newblock The outs and ins of transposition: from {Mu} to {Kangaroo}.
+\newblock {\em Nature Reviews Molecular Cell Biology}, 4(11):865--877, November
+  2003.
+
+\bibitem{dfam_team_dfam_2023}
+{DFAM Team}.
+\newblock Dfam 3.7 : {\textasciitilde}3.4 million {TE} models across 2346
+  taxa., January 2023.
+
+\bibitem{eddy_profile_1998}
+S~R Eddy.
+\newblock Profile hidden {Markov} models.
+\newblock {\em Bioinformatics}, 14(9):755--763, January 1998.
+
+\bibitem{feschotte_dna_2007}
+Cédric Feschotte and Ellen~J. Pritham.
+\newblock {DNA} {Transposons} and the {Evolution} of {Eukaryotic} {Genomes}.
+\newblock {\em Annual Review of Genetics}, 41(1):331--368, December 2007.
+
+\bibitem{flynn_repeatmodeler2_2020}
+Jullien~M. Flynn, Robert Hubley, Clément Goubert, Jeb Rosen, Andrew~G. Clark,
+  Cédric Feschotte, and Arian~F. Smit.
+\newblock {RepeatModeler2} for automated genomic discovery of transposable
+  element families.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  117(17):9451--9457, April 2020.
+
+\bibitem{glazko_estimation_2003}
+G.~V. Glazko.
+\newblock Estimation of {Divergence} {Times} for {Major} {Lineages} of
+  {Primate} {Species}.
+\newblock {\em Molecular Biology and Evolution}, 20(3):424--434, March 2003.
+
+\bibitem{guindon_new_2010}
+Stéphane Guindon, Jean-François Dufayard, Vincent Lefort, Maria Anisimova,
+  Wim Hordijk, and Olivier Gascuel.
+\newblock New {Algorithms} and {Methods} to {Estimate} {Maximum}-{Likelihood}
+  {Phylogenies}: {Assessing} the {Performance} of {PhyML} 3.0.
+\newblock {\em Systematic Biology}, 59(3):307--321, March 2010.
+
+\bibitem{hubley_accuracy_2022}
+Robert Hubley, Travis~J Wheeler, and Arian F~A Smit.
+\newblock Accuracy of multiple sequence alignment methods in the reconstruction
+  of transposable element families.
+\newblock {\em NAR Genomics and Bioinformatics}, 4(2):lqac040, March 2022.
+
+\bibitem{huelsenbeck_bayesian_2001}
+John~P. Huelsenbeck, Fredrik Ronquist, Rasmus Nielsen, and Jonathan~P.
+  Bollback.
+\newblock Bayesian {Inference} of {Phylogeny} and {Its} {Impact} on
+  {Evolutionary} {Biology}.
+\newblock {\em Science}, 294(5550):2310--2314, December 2001.
+
+\bibitem{kapitonov_universal_2008}
+Vladimir~V. Kapitonov and Jerzy Jurka.
+\newblock A universal classification of eukaryotic transposable elements
+  implemented in {Repbase}.
+\newblock {\em Nature Reviews Genetics}, 9(5):411--412, May 2008.
+
+\bibitem{katoh_mafft_2013}
+K.~Katoh and D.~M. Standley.
+\newblock {MAFFT} {Multiple} {Sequence} {Alignment} {Software} {Version} 7:
+  {Improvements} in {Performance} and {Usability}.
+\newblock {\em Molecular Biology and Evolution}, 30(4):772--780, April 2013.
+
+\bibitem{phimister_mobile_2017}
+Haig~H. Kazazian and John~V. Moran.
+\newblock Mobile {DNA} in {Health} and {Disease}.
+\newblock {\em New England Journal of Medicine}, 377(4):361--370, July 2017.
+
+\bibitem{li_reas_2005}
+Ruiqiang Li, Jia Ye, Songgang Li, Jing Wang, Yujun Han, Chen Ye, Jian Wang,
+  Huanming Yang, Jun Yu, Gane Ka-Shu Wong, and Jun Wang.
+\newblock {ReAS}: {Recovery} of {Ancestral} {Sequences} for {Transposable}
+  {Elements} from the {Unassembled} {Reads} of a {Whole} {Genome} {Shotgun}.
+\newblock {\em PLoS Computational Biology}, 1(4):e43, September 2005.
+
+\bibitem{nascimento_biologists_2017}
+Fabrícia~F. Nascimento, Mario~Dos Reis, and Ziheng Yang.
+\newblock A biologist’s guide to {Bayesian} phylogenetic analysis.
+\newblock {\em Nature Ecology \& Evolution}, 1(10):1446--1454, September 2017.
+
+\bibitem{oleary_reference_2016}
+Nuala~A. O'Leary, Mathew~W. Wright, J.~Rodney Brister, Stacy Ciufo, Diana
+  Haddad, Rich McVeigh, Bhanu Rajput, Barbara Robbertse, Brian Smith-White,
+  Danso Ako-Adjei, Alexander Astashyn, Azat Badretdin, Yiming Bao, Olga
+  Blinkova, Vyacheslav Brover, Vyacheslav Chetvernin, Jinna Choi, Eric Cox,
+  Olga Ermolaeva, Catherine~M. Farrell, Tamara Goldfarb, Tripti Gupta, Daniel
+  Haft, Eneida Hatcher, Wratko Hlavina, Vinita~S. Joardar, Vamsi~K. Kodali,
+  Wenjun Li, Donna Maglott, Patrick Masterson, Kelly~M. McGarvey, Michael~R.
+  Murphy, Kathleen O'Neill, Shashikant Pujar, Sanjida~H. Rangwala, Daniel
+  Rausch, Lillian~D. Riddick, Conrad Schoch, Andrei Shkeda, Susan~S. Storz,
+  Hanzhen Sun, Francoise Thibaud-Nissen, Igor Tolstoy, Raymond~E. Tully,
+  Anjana~R. Vatsan, Craig Wallin, David Webb, Wendy Wu, Melissa~J. Landrum, Avi
+  Kimchi, Tatiana Tatusova, Michael DiCuccio, Paul Kitts, Terence~D. Murphy,
+  and Kim~D. Pruitt.
+\newblock Reference sequence ({RefSeq}) database at {NCBI}: current status,
+  taxonomic expansion, and functional annotation.
+\newblock {\em Nucleic Acids Research}, 44(D1):D733--D745, January 2016.
+
+\bibitem{ou_benchmarking_2019}
+Shujun Ou, Weija Su, Yi~Liao, Kapeel Chougule, Jireh R.~A. Agda, Adam~J.
+  Hellinga, Carlos Santiago~Blanco Lugo, Tyler~A. Elliott, Doreen Ware, Thomas
+  Peterson, Ning Jiang, Candice~N. Hirsch, and Matthew~B. Hufford.
+\newblock Benchmarking transposable element annotation methods for creation of
+  a streamlined, comprehensive pipeline.
+\newblock {\em Genome Biology}, 20(1):275, December 2019.
+
+\bibitem{piegu_survey_2015}
+Benoît Piégu, Solenne Bire, Peter Arensburger, and Yves Bigot.
+\newblock A survey of transposable element classification systems – {A} call
+  for a fundamental update to meet the challenge of their diversity and
+  complexity.
+\newblock {\em Molecular Phylogenetics and Evolution}, 86:90--109, May 2015.
+
+\bibitem{pontis_primate-specific_2022}
+Julien Pontis, Cyril Pulver, Christopher~J. Playfoot, Evarist Planet, Delphine
+  Grun, Sandra Offner, Julien Duc, Andrea Manfrin, Matthias~P. Lutolf, and
+  Didier Trono.
+\newblock Primate-specific transposable elements shape transcriptional networks
+  during human development.
+\newblock {\em Nature Communications}, 13(1):7178, November 2022.
+
+\bibitem{pozzi_primate_2014}
+Luca Pozzi, Jason~A. Hodgson, Andrew~S. Burrell, Kirstin~N. Sterner, Ryan~L.
+  Raaum, and Todd~R. Disotell.
+\newblock Primate phylogenetic relationships and divergence dates inferred from
+  complete mitochondrial genomes.
+\newblock {\em Molecular Phylogenetics and Evolution}, 75:165--183, June 2014.
+
+\bibitem{quinlan_bedtools_2010}
+Aaron~R. Quinlan and Ira~M. Hall.
+\newblock {BEDTools}: a flexible suite of utilities for comparing genomic
+  features.
+\newblock {\em Bioinformatics}, 26(6):841--842, March 2010.
+
+\bibitem{branco_overview_2023}
+Fernando Rodriguez and Irina~R. Arkhipova.
+\newblock An {Overview} of {Best} {Practices} for {Transposable} {Element}
+  {Identification}, {Classification}, and {Annotation} in {Eukaryotic}
+  {Genomes}.
+\newblock In Miguel~R. Branco and Alexandre De~Mendoza~Soler, editors, {\em
+  Transposable {Elements}}, volume 2607, pages 1--23. Springer US, New York,
+  NY, 2023.
+\newblock Series Title: Methods in Molecular Biology.
+
+\bibitem{scossa_ancestral_2021}
+Federico Scossa and Alisdair~R. Fernie.
+\newblock Ancestral sequence reconstruction - {An} underused approach to
+  understand the evolution of gene function in plants?
+\newblock {\em Computational and Structural Biotechnology Journal},
+  19:1579--1594, 2021.
+
+\bibitem{sean_r_eddy_hmmer_2023}
+{Sean R. Eddy}.
+\newblock {HMMER} {User}’s {Guide}, August 2023.
+
+\bibitem{selberg_ancestral_2021}
+Avery G.~A. Selberg, Eric~A. Gaucher, and David~A. Liberles.
+\newblock Ancestral {Sequence} {Reconstruction}: {From} {Chemical}
+  {Paleogenetics} to {Maximum} {Likelihood} {Algorithms} and {Beyond}.
+\newblock {\em Journal of Molecular Evolution}, 89(3):157--164, April 2021.
+
+\bibitem{shimodaira_multiple_1999}
+H.~Shimodaira and M.~Hasegawa.
+\newblock Multiple {Comparisons} of {Log}-{Likelihoods} with {Applications} to
+  {Phylogenetic} {Inference}.
+\newblock {\em Molecular Biology and Evolution}, 16(8):1114--1116, August 1999.
+
+\bibitem{shirley_efficient_2015}
+Matthew~D Shirley, Zhaorong Ma, Brent~S Pedersen, and Sarah~J Wheelan.
+\newblock Efficient "pythonic" access to {FASTA} files using pyfaidx.
+\newblock preprint, PeerJ PrePrints, April 2015.
+
+\bibitem{stevens_palaeontological_2013}
+Nancy~J. Stevens, Erik~R. Seiffert, Patrick~M. O’Connor, Eric~M. Roberts,
+  Mark~D. Schmitz, Cornelia Krause, Eric Gorscak, Sifa Ngasala, Tobin~L.
+  Hieronymus, and Joseph Temu.
+\newblock Palaeontological evidence for an {Oligocene} divergence between {Old}
+  {World} monkeys and apes.
+\newblock {\em Nature}, 497(7451):611--614, May 2013.
+
+\bibitem{storer_dfam_2021}
+Jessica Storer, Robert Hubley, Jeb Rosen, Travis~J. Wheeler, and Arian~F. Smit.
+\newblock The {Dfam} community resource of transposable element families,
+  sequence models, and genome annotations.
+\newblock {\em Mobile DNA}, 12(1):2, January 2021.
+
+\bibitem{storer_curation_2021}
+Jessica~M. Storer, Robert Hubley, Jeb Rosen, and Arian F.~A. Smit.
+\newblock Curation {Guidelines} for \textit{de novo} {Generated} {Transposable}
+  {Element} {Families}.
+\newblock {\em Current Protocols}, 1(6), June 2021.
+
+\bibitem{thornton_resurrecting_2004}
+Joseph~W. Thornton.
+\newblock Resurrecting ancient genes: experimental analysis of extinct
+  molecules.
+\newblock {\em Nature Reviews Genetics}, 5(5):366--375, May 2004.
+
+\bibitem{tumescheit_cialign_2022}
+Charlotte Tumescheit, Andrew~E. Firth, and Katherine Brown.
+\newblock {CIAlign}: {A} highly customisable command line tool to clean,
+  interpret and visualize multiple sequence alignments.
+\newblock {\em PeerJ}, 10:e12983, March 2022.
+
+\bibitem{wells_field_2020}
+Jonathan~N. Wells and Cédric Feschotte.
+\newblock A {Field} {Guide} to {Eukaryotic} {Transposable} {Elements}.
+\newblock {\em Annual Review of Genetics}, 54(1):539--561, November 2020.
+
+\bibitem{wheeler_dfam_2012}
+Travis~J. Wheeler, Jody Clements, Sean~R. Eddy, Robert Hubley, Thomas~A. Jones,
+  Jerzy Jurka, Arian F.~A. Smit, and Robert~D. Finn.
+\newblock Dfam: a database of repetitive {DNA} based on profile hidden {Markov}
+  models.
+\newblock {\em Nucleic Acids Research}, 41(D1):D70--D82, November 2012.
+
+\bibitem{wheeler_nhmmer_2013}
+Travis~J. Wheeler and Sean~R. Eddy.
+\newblock nhmmer: {DNA} homology search with profile {HMMs}.
+\newblock {\em Bioinformatics}, 29(19):2487--2489, October 2013.
+
+\bibitem{wicker_unified_2007}
+Thomas Wicker, François Sabot, Aurélie Hua-Van, Jeffrey~L. Bennetzen, Pierre
+  Capy, Boulos Chalhoub, Andrew Flavell, Philippe Leroy, Michele Morgante,
+  Olivier Panaud, Etienne Paux, Phillip SanMiguel, and Alan~H. Schulman.
+\newblock A unified classification system for eukaryotic transposable elements.
+\newblock {\em Nature Reviews Genetics}, 8(12):973--982, December 2007.
+
+\bibitem{yang_molecular_2014}
+Ziheng Yang.
+\newblock {\em Molecular {Evolution}: {A} {Statistical} {Approach}}.
+\newblock Oxford University PressOxford, 1 edition, May 2014.
+
+\end{thebibliography}
